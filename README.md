@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 
-- 🔭 I’m currently working on **car-detection-mobile-app**
+- 🔭  I’m working as a **Software Engineer**. 
 
 - 🌱 I’m currently learning **react-js,nodes-js and devops**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **learning more about web development**
 
-- 💬 Ask me about **react-js,python,c++,oop and any topic related to programming**
+- 💬 Ask me about **react-js, python, c++, oop and any topic related to programming**
 
 - 📫 How to reach me **nadaosman20022002@gmail**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nada osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada osman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Nada osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada osman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
