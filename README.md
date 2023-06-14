@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **learning more about web development**
 
-- 💬 Ask me about **react-js, python, c++, oop and any topic related to programming**
+- 💬 Ask me about **react-js,c++, oop and any topic related to programming**
 
-- 📫 How to reach me **nadaosman20022002@gmail**
+- 📫 How to reach me **nadaosman20022002@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n1qW3dLPnBmaGHLAq6z17vmTN-6eaCTC/view?usp=drive_link">my CV</a>
 
