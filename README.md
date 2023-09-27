@@ -9,7 +9,7 @@
 
 - 🔭  I’m working as a **Software Engineer**. 
 
-- 🌱 I’m currently learning **react-js,nodes-js and devops**
+- 🌱 I’m currently learning **react-js and nodes-js**
 
 - 👯 I’m looking to collaborate on **useful projects**
 
