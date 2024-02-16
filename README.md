@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **nadaosman20022002@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n1qW3dLPnBmaGHLAq6z17vmTN-6eaCTC/view?usp=drive_link">my CV</a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
